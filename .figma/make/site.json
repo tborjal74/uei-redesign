@@ -1,0 +1,10 @@
+{
+  "description": "This responsive knowledge assistant supports education specialists and mentors by providing guidance, resources, and interactive checklists to enhance mentoring effectiveness.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
