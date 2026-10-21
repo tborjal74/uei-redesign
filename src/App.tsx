@@ -780,7 +780,7 @@ function WelcomeScreen({
 }) {
   return (
     <div className="flex-1 flex flex-col items-center justify-center px-4 py-12 text-center">
-      <h1 className="text-2xl font-semibold text-[#1B2D4F] mb-2">How can I support your mentoring today?</h1>
+      <h1 className="text-2xl font-semibold text-[#1B2D4F] mb-2">How can I help you today?</h1>
       <p className="text-sm text-[#6B7A99] max-w-sm mb-8">
         Find guidance, explore UEI resources, and plan your next steps.
       </p>
